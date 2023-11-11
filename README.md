@@ -1,7 +1,5 @@
 ### Hi,
-I'm Andreas, Postdoc at the Institute of Applied Geoscienes at Karlsruhe Institute of Technology, Germany
+I'm Andreas, Research Fellow at Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB) working in the Department: Systems for Measurement, Control and Diagnosis. I am a hydrogeologist by training with a strong interest in applied machine learning and data analysis.
 
-### Research
-My research focusses on applying machine learning methods to solve hydrogeological problems.
 
-Check out: [hydro.agw.kit.edu](hydro.agw.kit.edu) and [KIT Hydrogeology](https://github.com/KITHydrogeology)
+To check out some of my former work, go to: [hydro.agw.kit.edu](hydro.agw.kit.edu) and [KIT Hydrogeology](https://github.com/KITHydrogeology)
